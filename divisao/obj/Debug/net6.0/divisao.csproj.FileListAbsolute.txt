@@ -1,0 +1,5 @@
+C:\Users\2022102020045\source\repos\divisao\divisao\obj\Debug\net6.0\divisao.csproj.AssemblyReference.cache
+C:\Users\2022102020045\source\repos\divisao\divisao\obj\Debug\net6.0\divisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020045\source\repos\divisao\divisao\obj\Debug\net6.0\divisao.AssemblyInfoInputs.cache
+C:\Users\2022102020045\source\repos\divisao\divisao\obj\Debug\net6.0\divisao.AssemblyInfo.cs
+C:\Users\2022102020045\source\repos\divisao\divisao\obj\Debug\net6.0\divisao.csproj.CoreCompileInputs.cache

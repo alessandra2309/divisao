@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\2022102020045\Downloads\divisao.cs" Link="divisao.cs" />
+  </ItemGroup>
+
 </Project>
