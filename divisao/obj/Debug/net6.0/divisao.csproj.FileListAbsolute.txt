@@ -3,3 +3,13 @@ C:\Users\2022102020045\source\repos\divisao\divisao\obj\Debug\net6.0\divisao.Gen
 C:\Users\2022102020045\source\repos\divisao\divisao\obj\Debug\net6.0\divisao.AssemblyInfoInputs.cache
 C:\Users\2022102020045\source\repos\divisao\divisao\obj\Debug\net6.0\divisao.AssemblyInfo.cs
 C:\Users\2022102020045\source\repos\divisao\divisao\obj\Debug\net6.0\divisao.csproj.CoreCompileInputs.cache
+C:\Users\2022102020045\source\repos\divisao\divisao\bin\Debug\net6.0\divisao.exe
+C:\Users\2022102020045\source\repos\divisao\divisao\bin\Debug\net6.0\divisao.deps.json
+C:\Users\2022102020045\source\repos\divisao\divisao\bin\Debug\net6.0\divisao.runtimeconfig.json
+C:\Users\2022102020045\source\repos\divisao\divisao\bin\Debug\net6.0\divisao.dll
+C:\Users\2022102020045\source\repos\divisao\divisao\bin\Debug\net6.0\ref\divisao.dll
+C:\Users\2022102020045\source\repos\divisao\divisao\bin\Debug\net6.0\divisao.pdb
+C:\Users\2022102020045\source\repos\divisao\divisao\obj\Debug\net6.0\divisao.dll
+C:\Users\2022102020045\source\repos\divisao\divisao\obj\Debug\net6.0\ref\divisao.dll
+C:\Users\2022102020045\source\repos\divisao\divisao\obj\Debug\net6.0\divisao.pdb
+C:\Users\2022102020045\source\repos\divisao\divisao\obj\Debug\net6.0\divisao.genruntimeconfig.cache
